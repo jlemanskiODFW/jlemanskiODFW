@@ -1,5 +1,12 @@
 ## Hi there 👋
-
+Welcome to my GitHub profile. I am a Project Leader with the Oregon Department of Fish and Wildlife's Inland Fish Science Program. I'm based in Northeast Oregon, and work primarily with Chinook salmon and steelhead. My work is focused on understanding the freshwater portions of the anadromous salmonid life cycle, and the influence of biological, environmental, and physical factors affecting natural production. 
+## Current Work Interests
+- Life Cycle modeling
+- Using Passive Integrated Transponder (PIT) technology for passive data collection
+- Structured Decision Making and Decision Support Modeling
+- Bayesian approaches
+## I'm looking for help with...
+- More effectively using GitHub for project and program organization
 <!--
 **jlemanskiODFW/jlemanskiODFW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
